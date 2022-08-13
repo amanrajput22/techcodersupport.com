@@ -1,0 +1,49 @@
+.logo{
+    width:90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.md:ml-auto flex flex-wrap items-center text-base justify-center{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.promote{
+    width:20%;
+    display: flex;
+    justify-content: center;
+}
+
+.Contact{
+    background-color: #f6f5f4;
+    height:100vh;
+    font-size: 40px;
+    font-weight: 500;
+    padding: 50px;
+}
+.text-center{
+    text-align: center;
+}
+.form{
+    max-width:400px;
+    margin: 42px auto;
+}
+.form-input{
+    margin: 5px 0;
+    padding: 1px 5px;
+    width:100%;
+    font-size: 15px;
+    border: 2px solid grey;
+    border-radius: 6px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=ubuntu&display=swap')
+;
